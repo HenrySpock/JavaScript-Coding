@@ -1,3 +1,4 @@
+//The three code snippets here will run cleanly in your console.
 
 //Problem One: Countdown
 
